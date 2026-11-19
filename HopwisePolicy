@@ -1,46 +1,79 @@
 Privacy Policy — Hopwise: Frog Escape Puzzle
-Last updated: November 14, 2026
 
-HyperXcite Studio ("we", "us") makes the mobile game Hopwise: Frog Escape Puzzle (the "Game"). This policy explains what information is collected when you play the Game and how it is used.
+Last updated: November 20, 2026
+
+HyperXcite Studio ("we", "us") makes the mobile game Hopwise: Frog Escape Puzzle (the "Game") for Android (Google Play) and iOS / iPadOS (Apple App Store). This policy explains what information is collected when you play the Game and how it is used.
 
 1. Information we collect
+
 We do not ask for your name, email address, phone number, or any account. The Game can be played without signing in.
 
 Game progress stored on your device. Your levels, stars, coins, frog skins, settings and purchases are saved only on your device. We do not receive this data. It is deleted when you uninstall the Game.
 
 Information collected by our partners. The Game uses third-party services that may collect information automatically:
 
-Service	Purpose	Information it may collect
-Google AdMob	Showing ads (rewarded videos and ads between levels)	Advertising ID, IP address, device model, operating system, language, approximate location (from IP), ad interactions
-Google User Messaging Platform	Asking for consent to personalized ads where required by law (e.g. EEA, UK, Switzerland)	Your consent choice, device information
-Google Play Billing	Processing in-app purchases	Purchase details. Payments are handled entirely by Google; we never see your card or payment information
-These services follow their own privacy policies:
+- Google AdMob (Android and iOS)
+  Purpose: Showing ads (rewarded videos and ads between levels), measuring ad performance
+  Information it may collect: Device advertising identifier (Android Advertising ID or Apple IDFA, only if you allow tracking on iOS), IP address, approximate location derived from IP address, device model, operating system, language, ad interactions (ads viewed and tapped), crash and performance diagnostics of the ad software
 
-Google Privacy Policy: https://policies.google.com/privacy
-How Google uses information from apps that use its services: https://policies.google.com/technologies/partner-sites
-AdMob and ads: https://support.google.com/admob/answer/6128543
+- Google User Messaging Platform
+  Purpose: Asking for consent to personalized ads where required by law (e.g. EEA, UK, Switzerland) and showing Apple's tracking permission request on iOS
+  Information it may collect: Your consent choice, device information
+
+- Google Play Billing (Android)
+  Purpose: Processing in-app purchases
+  Information it may collect: Purchase details. Payments are handled entirely by Google; we never see your card or payment information
+
+- Apple App Store In-App Purchase (iOS)
+  Purpose: Processing in-app purchases
+  Information it may collect: Purchase details. Payments are handled entirely by Apple; we never see your card or payment information
+
+
+We do not collect precise (GPS) location, contacts, photos, health data, or any content you create.
+
+These services follow their own privacy policies:
+- Google Privacy Policy: https://policies.google.com/privacy
+- How Google uses information from apps that use its services: https://policies.google.com/technologies/partner-sites
+- AdMob and ads: https://support.google.com/admob/answer/6128543
+- Apple Privacy Policy: https://www.apple.com/legal/privacy/
+
 2. How the information is used
-To show ads, including personalized ads if you allow them
-To limit how often ads appear and to measure their performance
-To deliver and restore in-app purchases (coins, frog bundle, Remove Ads)
-To keep the Game working and fix problems
+
+- To show ads, including personalized ads if you allow them
+- To limit how often ads appear and to measure their performance (analytics)
+- To find and fix crashes and performance problems in the ad software (app functionality)
+- To deliver and restore in-app purchases (coins, frog bundle, Remove Ads)
+- To keep the Game working and fix problems
+
+The information collected is not linked to your identity: the Game has no accounts, and we do not connect it to your name, email or any other personal details.
+
+Tracking. If you allow it, our advertising partner Google may use your device advertising identifier, ad interaction data and approximate location, together with data from other companies' apps and websites, to show you personalized ads. On iOS this only happens if you choose Allow when the Game asks for permission to track (Apple App Tracking Transparency). If you choose Ask App Not to Track, the IDFA is not shared and you will see non-personalized ads.
+
 We do not sell your personal information.
 
 3. Your choices
-Ad consent: If you are in a region where consent is required, the Game asks before showing personalized ads. You can change your choice at any time in Settings → Privacy choices in the Game.
-Advertising ID: On Android you can reset or delete your advertising ID in your device settings (Settings → Privacy → Ads).
-Remove Ads: You can buy "Remove Ads" to stop the ads between levels. Optional rewarded videos remain available.
-Delete your data: Uninstalling the Game deletes all game data stored on your device. To ask about data held by Google, see the Google links above.
+
+- Ad consent: If you are in a region where consent is required, the Game asks before showing personalized ads. You can change your choice at any time in Settings → Privacy choices in the Game.
+- Tracking on iOS: You can allow or stop tracking at any time in your iPhone or iPad settings (Settings → Privacy & Security → Tracking). You can also turn off personalized Apple ads in Settings → Privacy & Security → Apple Advertising.
+- Advertising ID on Android: You can reset or delete your advertising ID in your device settings (Settings → Privacy → Ads).
+- Remove Ads: You can buy "Remove Ads" to stop the ads between levels. Optional rewarded videos remain available.
+- Delete your data: Uninstalling the Game deletes all game data stored on your device. To ask about data held by Google, see the Google links above.
+
 4. Children
+
 The Game is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided personal information through the Game, contact us and we will help remove it.
 
 5. Data security
+
 Game data stays on your device. Information sent to our partners is transmitted using encryption (HTTPS).
 
 6. Changes to this policy
+
 We may update this policy from time to time. Changes will be posted on this page with a new "Last updated" date.
 
 7. Contact us
+
 If you have questions about this policy, contact us at:
 
-HyperXcite Studio Email: haseebmuhammad75@gmail.com
+HyperXcite Studio
+Email: haseebmuhammad75@gmail.com
